@@ -1,0 +1,6 @@
+<meta>
+<info author="MustafaGUR" name="Arazi Sistemi" version="1" type="script"/>
+<script src="c_arazi.lua" type="client" cache="false"/>
+<script src="s_arazi.lua" type="server"/>
+<file src="Font13.ttf"/>
+</meta>
